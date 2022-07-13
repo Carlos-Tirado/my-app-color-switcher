@@ -1,0 +1,61 @@
+html, body, #root, .react-root {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/*centering the text horizontalmente*/
+.centered {
+  text-align: center;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  border: 2px solid #ffffff;
+  color: white;
+  font-size: 20px;
+}
+
+/* redbutton {
+  padding: 10px 20px;
+  margin: 10px;
+  border: 2px solid #ffffff;
+  color: white;
+  font-size: 15px; 
+}
+bluebutton {
+  padding: 10px 20px;
+  margin: 10px;
+  border: 2px solid #ffffff;
+  color: white; 
+  font-size: 15px; 
+}
+yellowbutton {
+  padding: 10px 15px;
+  margin: 10px;
+  border: 2px solid #ffffff;
+  color: white;
+  font-size: 15px; 
+} */ 
+
+
+
+
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+}
+
+.yellow {
+  background-color:yellow;
+  color: gray;
+
+}
